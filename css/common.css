@@ -62,3 +62,8 @@ button {
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+#boxes {
+  display: flex;
+  flex-flow: row wrap;
+}
